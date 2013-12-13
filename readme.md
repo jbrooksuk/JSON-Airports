@@ -12,5 +12,8 @@ The JSON file, airports.json contains an array of airports and some basic inform
 - Type (airport, heliport, seaboats)
 - Status (0 = closed, 1 = open)
 
+# Contributors
+- José, for adding `lat` and `lon` values.
+
 # License
 MIT - [http://jbrooksuk.mit-license.org](http://jbrooksuk.mit-license.org)
