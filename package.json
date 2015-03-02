@@ -1,0 +1,34 @@
+{
+  "name": "airports",
+  "version": "1.0.0",
+  "description": "A JSON array of Airport names, IATA code and location",
+  "main": "airports.json",
+  "files": [
+    "airports.json"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keyword": [
+    "airport",
+    "heliport",
+    "iata",
+    "poi",
+    "location",
+    "coordinates",
+    "json",
+    "list",
+    "array"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbrooksuk/JSON-Airports"
+  },
+  "author": "James Brooks <jbrooksuk@me.com> (https://james-brooks.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbrooksuk/JSON-Airports/issues"
+  },
+  "homepage": "https://github.com/jbrooksuk/JSON-Airports",
+  "dependencies": {}
+}
