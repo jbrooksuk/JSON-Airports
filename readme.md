@@ -1,4 +1,4 @@
-# JSON Airports [![Gittip](http://badgr.co/gittip/jbrooksuk.png)](https://www.gittip.com/jbrooksuk/)
+# JSON Airports
 
 At [Blue Bay Travel](http://bluebaytravel.co.uk) we needed a list of Airports and their basic informations to provide autocompletion within our internal applications. We searched high and low to find something, but only had a MySQL table from somewhere, so we created this file.
 
