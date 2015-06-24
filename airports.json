@@ -19452,17 +19452,6 @@
         "size": "small"
     },
     {
-        "iata": "UCN",
-        "lon": "-10.033333",
-        "iso": "LR",
-        "status": 1,
-        "name": "Lamco Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "5.95",
-        "size": "small"
-    },
-    {
         "iata": "MLW",
         "lon": "-10.758333",
         "iso": "LR",
