@@ -22855,17 +22855,6 @@
         "size": "small"
     },
     {
-        "iata": "KMM",
-        "lon": "136.16667",
-        "iso": "ID",
-        "status": 1,
-        "name": "Kiman Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-3.666667",
-        "size": "small"
-    },
-    {
         "iata": "KOD",
         "lon": "116.583336",
         "iso": "ID",
