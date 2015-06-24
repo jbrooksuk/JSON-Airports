@@ -7052,14 +7052,14 @@
         "size": "medium"
     },
     {
-        "iata": "ZBF",
-        "lon": "-65.73944",
+        "iata": "ILF",
+        "lon": "-95.618056",
         "iso": "CA",
         "status": 1,
         "name": "Ilford Airport",
         "continent": "NA",
         "type": "airport",
-        "lat": "47.629166",
+        "lat": "56.051667",
         "size": "medium"
     },
     {
