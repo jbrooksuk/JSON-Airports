@@ -37002,17 +37002,6 @@
         "size": "small"
     },
     {
-        "iata": "TNO",
-        "lon": "-85.815475",
-        "iso": "CR",
-        "status": 1,
-        "name": "Cabo Velas Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "10.314033",
-        "size": "small"
-    },
-    {
         "iata": "FMG",
         "lon": "-85.78333",
         "iso": "CR",
