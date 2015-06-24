@@ -50014,17 +50014,6 @@
         "size": "small"
     },
     {
-        "iata": "PRI",
-        "lon": "55.692314",
-        "iso": "SC",
-        "status": 1,
-        "name": "Praslin Island Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-4.323883",
-        "size": "small"
-    },
-    {
         "iata": "ZUD",
         "lon": "-73.833336",
         "iso": "CL",
