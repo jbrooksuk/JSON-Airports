@@ -11796,17 +11796,6 @@
         "size": "large"
     },
     {
-        "iata": "IOR",
-        "lon": "-9.75",
-        "iso": "IE",
-        "status": 1,
-        "name": "Inishmore Aerodrome",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "53.11667",
-        "size": "small"
-    },
-    {
         "iata": "INQ",
         "lon": "-9.433333",
         "iso": "IE",
