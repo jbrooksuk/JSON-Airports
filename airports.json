@@ -11315,17 +11315,6 @@
         "size": "large"
     },
     {
-        "iata": "FRK",
-        "lon": "55.966667",
-        "iso": "GB",
-        "status": 1,
-        "name": "Fairoaks Airport",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "-4.583333",
-        "size": "small"
-    },
-    {
         "iata": "FZO",
         "lon": "-2.583333",
         "iso": "GB",
@@ -17526,7 +17515,7 @@
         "lon": "55.966667",
         "iso": "SC",
         "status": 1,
-        "name": null,
+        "name": "Frégate Island Airport",
         "continent": "AF",
         "type": "airport",
         "lat": "-4.583333",
