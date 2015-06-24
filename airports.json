@@ -34708,17 +34708,6 @@
         "size": "medium"
     },
     {
-        "iata": "GJA",
-        "lon": "-85.90583",
-        "iso": "KS",
-        "status": 1,
-        "name": "?akovica Airfield",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "16.445",
-        "size": "medium"
-    },
-    {
         "iata": "INI",
         "lon": "21.851667",
         "iso": "RS",
@@ -35547,7 +35536,7 @@
         "lon": "-85.90583",
         "iso": "HN",
         "status": 1,
-        "name": "La Laguna Airport",
+        "name": "Guanaja Airport",
         "continent": "NA",
         "type": "airport",
         "lat": "16.445",
