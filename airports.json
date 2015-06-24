@@ -42202,17 +42202,6 @@
         "size": "medium"
     },
     {
-        "iata": "DDU",
-        "lon": "67.6711",
-        "iso": "PK",
-        "status": 1,
-        "name": "Dadu West Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "26.735804",
-        "size": "small"
-    },
-    {
         "iata": "AAW",
         "lon": "73.25",
         "iso": "PK",
