@@ -48418,17 +48418,6 @@
         "size": "medium"
     },
     {
-        "iata": "CSZ",
-        "lon": "-61.88333",
-        "iso": "AR",
-        "status": 1,
-        "name": "Brigadier D.H.E. Ruiz Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-37.433334",
-        "size": "small"
-    },
-    {
         "iata": "OVR",
         "lon": "-60.22778",
         "iso": "AR",
