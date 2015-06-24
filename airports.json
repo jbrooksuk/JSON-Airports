@@ -37696,17 +37696,6 @@
         "size": "small"
     },
     {
-        "iata": "CEO",
-        "lon": "15.101389",
-        "iso": "MX",
-        "status": 1,
-        "name": "El Crucero Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "-11.426389",
-        "size": "small"
-    },
-    {
         "iata": "NVJ",
         "iso": "MX",
         "status": 1,
