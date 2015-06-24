@@ -48000,17 +48000,6 @@
         "size": "medium"
     },
     {
-        "iata": "PSV",
-        "lon": "-1.7",
-        "iso": "AR",
-        "status": 1,
-        "name": "Rovere Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "60.316666",
-        "size": "small"
-    },
-    {
         "iata": "SLA",
         "lon": "-65.47849",
         "iso": "AR",
