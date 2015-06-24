@@ -799,17 +799,6 @@
         "size": "small"
     },
     {
-        "iata": "VME",
-        "lon": "-65.416664",
-        "iso": "AR",
-        "status": 1,
-        "name": "Villa Mercedes Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-33.63333",
-        "size": "small"
-    },
-    {
         "iata": "NCJ",
         "iso": "AR",
         "status": 1,
