@@ -2649,15 +2649,6 @@
     },
     {
         "iata": "THO",
-        "iso": "IS",
-        "status": 0,
-        "name": null,
-        "continent": "EU",
-        "type": "closed",
-        "size": null
-    },
-    {
-        "iata": "THO",
         "lon": "-15.335653",
         "iso": "IS",
         "status": 1,
@@ -22910,17 +22901,6 @@
         "size": "small"
     },
     {
-        "iata": "MPT",
-        "lon": "125.25",
-        "iso": "ID",
-        "status": 1,
-        "name": "Maliana airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-8.066667",
-        "size": "small"
-    },
-    {
         "iata": "MSI",
         "lon": "114.433334",
         "iso": "ID",
@@ -41249,17 +41229,6 @@
         "size": "small"
     },
     {
-        "iata": "OHE",
-        "lon": "122.42059",
-        "iso": "CN",
-        "status": 1,
-        "name": "Gu-Lian Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "52.92113",
-        "size": "medium"
-    },
-    {
         "iata": "ABD",
         "lon": "48.226597",
         "iso": "IR",
@@ -42849,8 +42818,10 @@
         "size": "large"
     },
     {
-        "iata": "OSO",
+        "iata": "ISU",
         "iso": "IQ",
+        "lat": "35.5617485",
+        "lon": "45.3167381",
         "status": 1,
         "name": "Sulaymaniyah International Airport",
         "continent": "AS",
@@ -57150,17 +57121,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "71.7",
-        "size": "medium"
-    },
-    {
-        "iata": "ENK",
-        "lon": "-7.633333",
-        "iso": "RU",
-        "status": 1,
-        "name": "Zyryanka Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "54.35",
         "size": "medium"
     },
     {
@@ -72880,17 +72840,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "44.534943",
-        "size": "medium"
-    },
-    {
-        "iata": "OHE",
-        "lon": "122.42059",
-        "iso": "CN",
-        "status": 1,
-        "name": "Gu-Lian Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "52.92113",
         "size": "medium"
     },
     {
