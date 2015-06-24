@@ -528,17 +528,6 @@
         "size": null
     },
     {
-        "iata": "AMC",
-        "lon": "20.283333",
-        "iso": "MX",
-        "status": 1,
-        "name": null,
-        "continent": "NA",
-        "type": "airport",
-        "lat": "11.033333",
-        "size": "large"
-    },
-    {
         "iata": "AME",
         "lon": "37.583332",
         "iso": "MZ",
