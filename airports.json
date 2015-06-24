@@ -23064,17 +23064,6 @@
         "size": "small"
     },
     {
-        "iata": "RZS",
-        "lon": "68.86667",
-        "iso": "ID",
-        "status": 1,
-        "name": "Sawan Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "26.966667",
-        "size": "small"
-    },
-    {
         "iata": "SAE",
         "lon": "-51.632145",
         "iso": "ID",
