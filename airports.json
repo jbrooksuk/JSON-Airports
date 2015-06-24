@@ -33738,7 +33738,7 @@
         "lon": "24.533333",
         "iso": "RO",
         "status": 1,
-        "name": null,
+        "name": "Transilvania Târgu Mureş International Airport",
         "continent": "EU",
         "type": "airport",
         "lat": "46.533333",
@@ -36495,17 +36495,6 @@
         "continent": "NA",
         "type": "airport",
         "lat": "22.255466",
-        "size": "medium"
-    },
-    {
-        "iata": "TGM",
-        "lon": "24.533333",
-        "iso": "MX",
-        "status": 1,
-        "name": null,
-        "continent": "NA",
-        "type": "airport",
-        "lat": "46.533333",
         "size": "medium"
     },
     {
