@@ -528,17 +528,6 @@
         "size": null
     },
     {
-        "iata": "AMC",
-        "lon": "20.283333",
-        "iso": "MX",
-        "status": 1,
-        "name": null,
-        "continent": "NA",
-        "type": "airport",
-        "lat": "11.033333",
-        "size": "large"
-    },
-    {
         "iata": "AME",
         "lon": "37.583332",
         "iso": "MZ",
@@ -807,17 +796,6 @@
         "continent": "SA",
         "type": "airport",
         "lat": "-40.7",
-        "size": "small"
-    },
-    {
-        "iata": "VME",
-        "lon": "-65.416664",
-        "iso": "AR",
-        "status": 1,
-        "name": "Villa Mercedes Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-33.63333",
         "size": "small"
     },
     {
@@ -1916,15 +1894,6 @@
         "size": null
     },
     {
-        "iata": "INN",
-        "iso": "GL",
-        "status": 1,
-        "name": "Innarsuit Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
-    },
-    {
         "iata": "ISO",
         "iso": "GL",
         "status": 1,
@@ -2093,15 +2062,6 @@
         "size": null
     },
     {
-        "iata": "NIA",
-        "iso": "GL",
-        "status": 1,
-        "name": "Niaqornat Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
-    },
-    {
         "iata": "NUS",
         "iso": "GL",
         "status": 1,
@@ -2162,24 +2122,6 @@
         "size": "medium"
     },
     {
-        "iata": "SMG",
-        "iso": "GL",
-        "status": 1,
-        "name": "Sermiligaaq Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
-    },
-    {
-        "iata": "SIO",
-        "iso": "GL",
-        "status": 1,
-        "name": "Siorapaluk Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
-    },
-    {
         "iata": "QUP",
         "iso": "GL",
         "status": 1,
@@ -2204,15 +2146,6 @@
         "iso": "GL",
         "status": 1,
         "name": "Saattut Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
-    },
-    {
-        "iata": "SAV",
-        "iso": "GL",
-        "status": 1,
-        "name": "Savissivik Heliport",
         "continent": "NA",
         "type": "heliport",
         "size": null
@@ -2267,15 +2200,6 @@
         "type": "airport",
         "lat": "70.73194",
         "size": "small"
-    },
-    {
-        "iata": "UKK",
-        "iso": "GL",
-        "status": 1,
-        "name": "Ukkusissat Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
     },
     {
         "iata": "BHL",
@@ -2668,15 +2592,6 @@
         "type": "airport",
         "lat": "65.88333",
         "size": "small"
-    },
-    {
-        "iata": "THO",
-        "iso": "IS",
-        "status": 0,
-        "name": null,
-        "continent": "EU",
-        "type": "closed",
-        "size": null
     },
     {
         "iata": "THO",
@@ -3332,15 +3247,6 @@
         "size": "small"
     },
     {
-        "iata": "CLG",
-        "iso": "US",
-        "status": 0,
-        "name": "Coalinga Airport",
-        "continent": "NA",
-        "type": "closed",
-        "size": null
-    },
-    {
         "iata": "OHE",
         "lon": "122.42059",
         "iso": "CN",
@@ -3471,24 +3377,6 @@
         "type": "airport",
         "lat": "51.666668",
         "size": "small"
-    },
-    {
-        "iata": "PRM",
-        "iso": "CO",
-        "status": 1,
-        "name": "Proma Heliport",
-        "continent": "SA",
-        "type": "heliport",
-        "size": null
-    },
-    {
-        "iata": "ISG",
-        "iso": "CO",
-        "status": 1,
-        "name": "Isa Giron Heliport",
-        "continent": "SA",
-        "type": "heliport",
-        "size": null
     },
     {
         "iata": "API",
@@ -3776,17 +3664,6 @@
         "continent": "NA",
         "type": "heliport",
         "size": null
-    },
-    {
-        "iata": "YAX",
-        "lon": "-89.565",
-        "iso": "CA",
-        "status": 1,
-        "name": "Lac Du Bonnet Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "53.251945",
-        "size": "medium"
     },
     {
         "iata": "YAY",
@@ -7021,17 +6898,6 @@
         "size": "medium"
     },
     {
-        "iata": "YZY",
-        "lon": "100.660835",
-        "iso": "CA",
-        "status": 1,
-        "name": "Mackenzie Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "38.8075",
-        "size": "medium"
-    },
-    {
         "iata": "ZAC",
         "lon": "-96.09192",
         "iso": "CA",
@@ -7074,14 +6940,14 @@
         "size": "medium"
     },
     {
-        "iata": "ZBF",
-        "lon": "-65.73944",
+        "iata": "ILF",
+        "lon": "-95.618056",
         "iso": "CA",
         "status": 1,
         "name": "Ilford Airport",
         "continent": "NA",
         "type": "airport",
-        "lat": "47.629166",
+        "lat": "56.051667",
         "size": "medium"
     },
     {
@@ -8722,17 +8588,6 @@
         "type": "airport",
         "lat": "11.0",
         "size": "medium"
-    },
-    {
-        "iata": "STI",
-        "lon": "-70.603355",
-        "iso": "DO",
-        "status": 1,
-        "name": "Santiago Municipal Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "19.404486",
-        "size": "small"
     },
     {
         "iata": "DQA",
@@ -11337,17 +11192,6 @@
         "size": "large"
     },
     {
-        "iata": "FRK",
-        "lon": "55.966667",
-        "iso": "GB",
-        "status": 1,
-        "name": "Fairoaks Airport",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "-4.583333",
-        "size": "small"
-    },
-    {
         "iata": "FZO",
         "lon": "-2.583333",
         "iso": "GB",
@@ -11840,17 +11684,6 @@
         "size": "large"
     },
     {
-        "iata": "IOR",
-        "lon": "-9.75",
-        "iso": "IE",
-        "status": 1,
-        "name": "Inishmore Aerodrome",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "53.11667",
-        "size": "small"
-    },
-    {
         "iata": "INQ",
         "lon": "-9.433333",
         "iso": "IE",
@@ -12112,17 +11945,6 @@
         "continent": "EU",
         "type": "airport",
         "lat": "57.072224",
-        "size": "medium"
-    },
-    {
-        "iata": "VDP",
-        "lon": "-65.99111",
-        "iso": "DK",
-        "status": 1,
-        "name": "Kolding Vamdrup Airport",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "9.221389",
         "size": "medium"
     },
     {
@@ -14497,17 +14319,6 @@
         "continent": "AF",
         "type": "airport",
         "lat": "-23.93361",
-        "size": "medium"
-    },
-    {
-        "iata": "PTG",
-        "lon": "29.966667",
-        "iso": "ZA",
-        "status": 1,
-        "name": "Pietersburg Municipal Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-23.916668",
         "size": "medium"
     },
     {
@@ -17559,7 +17370,7 @@
         "lon": "55.966667",
         "iso": "SC",
         "status": 1,
-        "name": null,
+        "name": "Frégate Island Airport",
         "continent": "AF",
         "type": "airport",
         "lat": "-4.583333",
@@ -19504,17 +19315,6 @@
         "continent": "AF",
         "type": "airport",
         "lat": "5.033056",
-        "size": "small"
-    },
-    {
-        "iata": "UCN",
-        "lon": "-10.033333",
-        "iso": "LR",
-        "status": 1,
-        "name": "Lamco Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "5.95",
         "size": "small"
     },
     {
@@ -22932,17 +22732,6 @@
         "size": "small"
     },
     {
-        "iata": "KMM",
-        "lon": "136.16667",
-        "iso": "ID",
-        "status": 1,
-        "name": "Kiman Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-3.666667",
-        "size": "small"
-    },
-    {
         "iata": "KOD",
         "lon": "116.583336",
         "iso": "ID",
@@ -23017,17 +22806,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "-2.733333",
-        "size": "small"
-    },
-    {
-        "iata": "MPT",
-        "lon": "125.25",
-        "iso": "ID",
-        "status": 1,
-        "name": "Maliana airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-8.066667",
         "size": "small"
     },
     {
@@ -23160,17 +22938,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "-3.633333",
-        "size": "small"
-    },
-    {
-        "iata": "RZS",
-        "lon": "68.86667",
-        "iso": "ID",
-        "status": 1,
-        "name": "Sawan Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "26.966667",
         "size": "small"
     },
     {
@@ -25649,17 +25416,6 @@
         "size": "small"
     },
     {
-        "iata": "MRE",
-        "lon": "35.05885",
-        "iso": "KE",
-        "status": 1,
-        "name": "Mara Lodges Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-1.300368",
-        "size": "small"
-    },
-    {
         "iata": "MUM",
         "lon": "34.483334",
         "iso": "KE",
@@ -27053,15 +26809,6 @@
         "size": "medium"
     },
     {
-        "iata": "LHC",
-        "iso": "US",
-        "status": 0,
-        "name": "Arlington Municipal Airport",
-        "continent": "NA",
-        "type": "closed",
-        "size": null
-    },
-    {
         "iata": "LIT",
         "lon": "-92.221375",
         "iso": "US",
@@ -27915,15 +27662,6 @@
         "type": "airport",
         "lat": "26.688885",
         "size": "large"
-    },
-    {
-        "iata": "PCA",
-        "iso": "US",
-        "status": 1,
-        "name": "Picacho Stagefield Heliport",
-        "continent": "NA",
-        "type": "heliport",
-        "size": null
     },
     {
         "iata": "PDK",
@@ -30151,17 +29889,6 @@
         "continent": "EU",
         "type": "airport",
         "lat": "46.58611",
-        "size": "medium"
-    },
-    {
-        "iata": "MCU",
-        "lon": "2.6",
-        "iso": "FR",
-        "status": 1,
-        "name": null,
-        "continent": "EU",
-        "type": "airport",
-        "lat": "46.35",
         "size": "medium"
     },
     {
@@ -33174,15 +32901,6 @@
         "size": "medium"
     },
     {
-        "iata": "JRS",
-        "iso": "PS",
-        "status": 0,
-        "name": "Atarot Airport",
-        "continent": "AS",
-        "type": "closed",
-        "size": null
-    },
-    {
         "iata": "KSW",
         "lon": "35.566666",
         "iso": "IL",
@@ -33859,7 +33577,7 @@
         "lon": "24.533333",
         "iso": "RO",
         "status": 1,
-        "name": null,
+        "name": "Transilvania Târgu Mureş International Airport",
         "continent": "EU",
         "type": "airport",
         "lat": "46.533333",
@@ -34829,28 +34547,6 @@
         "size": "medium"
     },
     {
-        "iata": "GJA",
-        "lon": "-85.90583",
-        "iso": "KS",
-        "status": 1,
-        "name": "?akovica Airfield",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "16.445",
-        "size": "medium"
-    },
-    {
-        "iata": "KID",
-        "lon": "14.088889",
-        "iso": "RS",
-        "status": 1,
-        "name": "Airport Drakslerov salas Kikinda",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "55.919445",
-        "size": "small"
-    },
-    {
         "iata": "INI",
         "lon": "21.851667",
         "iso": "RS",
@@ -35679,7 +35375,7 @@
         "lon": "-85.90583",
         "iso": "HN",
         "status": 1,
-        "name": "La Laguna Airport",
+        "name": "Guanaja Airport",
         "continent": "NA",
         "type": "airport",
         "lat": "16.445",
@@ -35793,17 +35489,6 @@
         "continent": "NA",
         "type": "airport",
         "lat": "16.091667",
-        "size": "small"
-    },
-    {
-        "iata": "MJG",
-        "lon": "-79.0",
-        "iso": "PR",
-        "status": 1,
-        "name": "Areopuerto Internacional Michael Gonzalez",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "21.758333",
         "size": "small"
     },
     {
@@ -36641,17 +36326,6 @@
         "size": "medium"
     },
     {
-        "iata": "TGM",
-        "lon": "24.533333",
-        "iso": "MX",
-        "status": 1,
-        "name": null,
-        "continent": "NA",
-        "type": "airport",
-        "lat": "46.533333",
-        "size": "medium"
-    },
-    {
         "iata": "TRC",
         "lon": "-103.39874",
         "iso": "MX",
@@ -36812,17 +36486,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "45.766666",
-        "size": "small"
-    },
-    {
-        "iata": "ULG",
-        "lon": "89.96667",
-        "iso": "MN",
-        "status": 1,
-        "name": null,
-        "continent": "AS",
-        "type": "airport",
-        "lat": "48.966667",
         "size": "small"
     },
     {
@@ -37153,17 +36816,6 @@
         "continent": "NA",
         "type": "airport",
         "lat": "9.866667",
-        "size": "small"
-    },
-    {
-        "iata": "TNO",
-        "lon": "-85.815475",
-        "iso": "CR",
-        "status": 1,
-        "name": "Cabo Velas Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "10.314033",
         "size": "small"
     },
     {
@@ -37869,17 +37521,6 @@
         "continent": "NA",
         "type": "airport",
         "lat": "19.068056",
-        "size": "small"
-    },
-    {
-        "iata": "CEO",
-        "lon": "15.101389",
-        "iso": "MX",
-        "status": 1,
-        "name": "El Crucero Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "-11.426389",
         "size": "small"
     },
     {
@@ -41458,17 +41099,6 @@
         "size": "small"
     },
     {
-        "iata": "OHE",
-        "lon": "122.42059",
-        "iso": "CN",
-        "status": 1,
-        "name": "Gu-Lian Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "52.92113",
-        "size": "medium"
-    },
-    {
         "iata": "ABD",
         "lon": "48.226597",
         "iso": "IR",
@@ -42389,17 +42019,6 @@
         "size": "medium"
     },
     {
-        "iata": "DDU",
-        "lon": "67.6711",
-        "iso": "PK",
-        "status": 1,
-        "name": "Dadu West Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "26.735804",
-        "size": "small"
-    },
-    {
         "iata": "AAW",
         "lon": "73.25",
         "iso": "PK",
@@ -42693,17 +42312,6 @@
         "type": "airport",
         "lat": "25.65",
         "size": "medium"
-    },
-    {
-        "iata": "MPD",
-        "lon": "69.03333",
-        "iso": "PK",
-        "status": 1,
-        "name": "Sindhri Tharparkar Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "25.65",
-        "size": "small"
     },
     {
         "iata": "MUX",
@@ -43080,8 +42688,10 @@
         "size": "large"
     },
     {
-        "iata": "OSO",
+        "iata": "ISU",
         "iso": "IQ",
+        "lat": "35.5617485",
+        "lon": "45.3167381",
         "status": 1,
         "name": "Sulaymaniyah International Airport",
         "continent": "AS",
@@ -47575,17 +47185,6 @@
         "size": "medium"
     },
     {
-        "iata": "GUI",
-        "lon": "-62.3",
-        "iso": "PH",
-        "status": 1,
-        "name": "Guiuan Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "10.566667",
-        "size": "small"
-    },
-    {
         "iata": "ILO",
         "lon": "122.543884",
         "iso": "PH",
@@ -48231,17 +47830,6 @@
         "size": "medium"
     },
     {
-        "iata": "PSV",
-        "lon": "-1.7",
-        "iso": "AR",
-        "status": 1,
-        "name": "Rovere Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "60.316666",
-        "size": "small"
-    },
-    {
         "iata": "SLA",
         "lon": "-65.47849",
         "iso": "AR",
@@ -48660,17 +48248,6 @@
         "size": "medium"
     },
     {
-        "iata": "CSZ",
-        "lon": "-61.88333",
-        "iso": "AR",
-        "status": 1,
-        "name": "Brigadier D.H.E. Ruiz Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-37.433334",
-        "size": "small"
-    },
-    {
         "iata": "OVR",
         "lon": "-60.22778",
         "iso": "AR",
@@ -49061,17 +48638,6 @@
         "type": "airport",
         "lat": "-22.925",
         "size": "small"
-    },
-    {
-        "iata": "ITB",
-        "lon": "-55.983334",
-        "iso": "BR",
-        "status": 1,
-        "name": "Cachimbo Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-4.283333",
-        "size": "medium"
     },
     {
         "iata": "CNF",
@@ -50265,28 +49831,6 @@
         "continent": "SA",
         "type": "airport",
         "size": "medium"
-    },
-    {
-        "iata": "PRI",
-        "lon": "55.692314",
-        "iso": "SC",
-        "status": 1,
-        "name": "Praslin Island Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-4.323883",
-        "size": "small"
-    },
-    {
-        "iata": "PRI",
-        "lon": "55.692314",
-        "iso": "SC",
-        "status": 1,
-        "name": "Praslin Island Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-4.323883",
-        "size": "small"
     },
     {
         "iata": "ZUD",
@@ -52482,17 +52026,6 @@
         "size": "small"
     },
     {
-        "iata": "MQZ",
-        "lon": "115.1",
-        "iso": "CO",
-        "status": 1,
-        "name": null,
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-33.933334",
-        "size": "medium"
-    },
-    {
         "iata": "AUC",
         "lon": "-70.7425",
         "iso": "CO",
@@ -53662,17 +53195,6 @@
         "continent": "SA",
         "type": "heliport",
         "size": null
-    },
-    {
-        "iata": "PIV",
-        "lon": "-44.93222",
-        "iso": "BR",
-        "status": 1,
-        "name": null,
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-17.338612",
-        "size": "small"
     },
     {
         "iata": "PDF",
@@ -55887,17 +55409,6 @@
         "size": "small"
     },
     {
-        "iata": "CCX",
-        "lon": "-57.7",
-        "iso": "BR",
-        "status": 1,
-        "name": null,
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-16.066668",
-        "size": "small"
-    },
-    {
         "iata": "CIZ",
         "lon": "-63.13333",
         "iso": "BR",
@@ -55997,17 +55508,6 @@
         "size": "small"
     },
     {
-        "iata": "APS",
-        "lon": "-48.966667",
-        "iso": "BR",
-        "status": 1,
-        "name": null,
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-16.333332",
-        "size": "small"
-    },
-    {
         "iata": "PIN",
         "lon": "-56.770027",
         "iso": "BR",
@@ -56016,17 +55516,6 @@
         "continent": "SA",
         "type": "airport",
         "lat": "-2.669208",
-        "size": "small"
-    },
-    {
-        "iata": "PMW",
-        "lon": "-48.35278",
-        "iso": "BR",
-        "status": 1,
-        "name": null,
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-10.241667",
         "size": "small"
     },
     {
@@ -57122,17 +56611,6 @@
         "size": "medium"
     },
     {
-        "iata": "DZN",
-        "lon": "67.73333",
-        "iso": "KZ",
-        "status": 1,
-        "name": "Zhezkazgan Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "47.7",
-        "size": "medium"
-    },
-    {
         "iata": "KGF",
         "lon": "73.32836",
         "iso": "KZ",
@@ -57436,17 +56914,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "71.7",
-        "size": "medium"
-    },
-    {
-        "iata": "ENK",
-        "lon": "-7.633333",
-        "iso": "RU",
-        "status": 1,
-        "name": "Zyryanka Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "54.35",
         "size": "medium"
     },
     {
@@ -58778,15 +58245,6 @@
         "type": "airport",
         "lat": "48.792",
         "size": "medium"
-    },
-    {
-        "iata": "AHT",
-        "iso": "US",
-        "status": 0,
-        "name": "Amchitka Army Airfield",
-        "continent": "NA",
-        "type": "closed",
-        "size": null
     },
     {
         "iata": "CEK",
@@ -60486,15 +59944,6 @@
         "size": "medium"
     },
     {
-        "iata": "AJL",
-        "iso": "IN",
-        "status": 0,
-        "name": "Tuirial Airport",
-        "continent": "AS",
-        "type": "closed",
-        "size": null
-    },
-    {
         "iata": "IXB",
         "lon": "88.324814",
         "iso": "IN",
@@ -61008,15 +60457,6 @@
         "type": "airport",
         "lat": "22.315248",
         "size": "large"
-    },
-    {
-        "iata": "HKG",
-        "iso": "HK",
-        "status": 0,
-        "name": "Hong Kong International Airport Kai Tak",
-        "continent": "AS",
-        "type": "closed",
-        "size": null
     },
     {
         "iata": "HHP",
@@ -62124,17 +61564,6 @@
         "size": "medium"
     },
     {
-        "iata": "HYD",
-        "lon": "78.428055",
-        "iso": "IN",
-        "status": 1,
-        "name": "Rajiv Gandhi Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "17.24",
-        "size": "large"
-    },
-    {
         "iata": "RJA",
         "lon": "81.82081",
         "iso": "IN",
@@ -62572,17 +62001,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "10.711122",
-        "size": "medium"
-    },
-    {
-        "iata": "NST",
-        "lon": "99.95",
-        "iso": "TH",
-        "status": 1,
-        "name": "Nakhon Si Thammarat Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "8.466667",
         "size": "medium"
     },
     {
@@ -65288,17 +64706,6 @@
         "size": "large"
     },
     {
-        "iata": "LLG",
-        "lon": "144.53334",
-        "iso": "ID",
-        "status": 1,
-        "name": "Silampari Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-17.133333",
-        "size": "small"
-    },
-    {
         "iata": "GNS",
         "lon": "97.5",
         "iso": "ID",
@@ -65318,17 +64725,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "1.399722",
-        "size": "medium"
-    },
-    {
-        "iata": "PDG",
-        "lon": "100.280556",
-        "iso": "ID",
-        "status": 1,
-        "name": "Tabing Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-0.786667",
         "size": "medium"
     },
     {
@@ -65913,17 +65309,6 @@
         "size": "small"
     },
     {
-        "iata": "BJW",
-        "lon": "120.98333",
-        "iso": "ID",
-        "status": 1,
-        "name": "Padhameleda Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "-8.766667",
-        "size": "small"
-    },
-    {
         "iata": "LKA",
         "lon": "123.00131",
         "iso": "ID",
@@ -66076,24 +65461,6 @@
         "size": null
     },
     {
-        "iata": "BCD",
-        "iso": "PH",
-        "status": 0,
-        "name": "Bacolod City Domestic Airport",
-        "continent": "AS",
-        "type": "closed",
-        "size": null
-    },
-    {
-        "iata": "MNI",
-        "iso": "MS",
-        "status": 0,
-        "name": "W. H. Bramble Airport",
-        "continent": "NA",
-        "type": "closed",
-        "size": null
-    },
-    {
         "iata": "SKL",
         "lon": "-6.25",
         "iso": "GB",
@@ -66103,15 +65470,6 @@
         "type": "airport",
         "lat": "57.333332",
         "size": "small"
-    },
-    {
-        "iata": "MUC",
-        "iso": "DE",
-        "status": 0,
-        "name": "Munich-Reim Airport",
-        "continent": "EU",
-        "type": "closed",
-        "size": null
     },
     {
         "iata": "ALH",
@@ -67703,17 +67061,6 @@
         "type": "airport",
         "lat": "-33.4",
         "size": "medium"
-    },
-    {
-        "iata": "KFE",
-        "lon": "119.437225",
-        "iso": "AU",
-        "status": 1,
-        "name": "Fortescue - Dave Forrest Aerodrome",
-        "continent": "OC",
-        "type": "airport",
-        "lat": "-22.291945",
-        "size": "small"
     },
     {
         "iata": "FLY",
@@ -73166,17 +72513,6 @@
         "continent": "AS",
         "type": "airport",
         "lat": "44.534943",
-        "size": "medium"
-    },
-    {
-        "iata": "OHE",
-        "lon": "122.42059",
-        "iso": "CN",
-        "status": 1,
-        "name": "Gu-Lian Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "52.92113",
         "size": "medium"
     },
     {
