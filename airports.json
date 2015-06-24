@@ -30055,17 +30055,6 @@
         "size": "medium"
     },
     {
-        "iata": "MCU",
-        "lon": "2.6",
-        "iso": "FR",
-        "status": 1,
-        "name": null,
-        "continent": "EU",
-        "type": "airport",
-        "lat": "46.35",
-        "size": "medium"
-    },
-    {
         "iata": "LIG",
         "lon": "1.176245",
         "iso": "FR",
