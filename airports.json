@@ -42497,17 +42497,6 @@
         "size": "medium"
     },
     {
-        "iata": "MPD",
-        "lon": "69.03333",
-        "iso": "PK",
-        "status": 1,
-        "name": "Sindhri Tharparkar Airport",
-        "continent": "AS",
-        "type": "airport",
-        "lat": "25.65",
-        "size": "small"
-    },
-    {
         "iata": "MUX",
         "lon": "71.41498",
         "iso": "PK",
