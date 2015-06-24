@@ -7010,17 +7010,6 @@
         "size": "medium"
     },
     {
-        "iata": "YZY",
-        "lon": "100.660835",
-        "iso": "CA",
-        "status": 1,
-        "name": "Mackenzie Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "38.8075",
-        "size": "medium"
-    },
-    {
         "iata": "ZAC",
         "lon": "-96.09192",
         "iso": "CA",
