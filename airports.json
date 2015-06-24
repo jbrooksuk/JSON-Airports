@@ -14478,17 +14478,6 @@
         "size": "medium"
     },
     {
-        "iata": "PTG",
-        "lon": "29.966667",
-        "iso": "ZA",
-        "status": 1,
-        "name": "Pietersburg Municipal Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-23.916668",
-        "size": "medium"
-    },
-    {
         "iata": "JOH",
         "lon": "29.533333",
         "iso": "ZA",
