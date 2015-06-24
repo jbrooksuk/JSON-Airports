@@ -3778,17 +3778,6 @@
         "size": null
     },
     {
-        "iata": "YAX",
-        "lon": "-89.565",
-        "iso": "CA",
-        "status": 1,
-        "name": "Lac Du Bonnet Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "53.251945",
-        "size": "medium"
-    },
-    {
         "iata": "YAY",
         "lon": "-55.583332",
         "iso": "CA",
