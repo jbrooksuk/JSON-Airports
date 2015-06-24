@@ -35653,17 +35653,6 @@
         "size": "small"
     },
     {
-        "iata": "MJG",
-        "lon": "-79.0",
-        "iso": "PR",
-        "status": 1,
-        "name": "Areopuerto Internacional Michael Gonzalez",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "21.758333",
-        "size": "small"
-    },
-    {
         "iata": "OCJ",
         "lon": "-76.96972",
         "iso": "JM",
