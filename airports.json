@@ -8691,17 +8691,6 @@
         "size": "medium"
     },
     {
-        "iata": "STI",
-        "lon": "-70.603355",
-        "iso": "DO",
-        "status": 1,
-        "name": "Santiago Municipal Airport",
-        "continent": "NA",
-        "type": "airport",
-        "lat": "19.404486",
-        "size": "small"
-    },
-    {
         "iata": "DQA",
         "lon": "125.147156",
         "iso": "CN",
