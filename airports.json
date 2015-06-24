@@ -25572,17 +25572,6 @@
         "size": "small"
     },
     {
-        "iata": "MRE",
-        "lon": "35.05885",
-        "iso": "KE",
-        "status": 1,
-        "name": "Mara Lodges Airport",
-        "continent": "AF",
-        "type": "airport",
-        "lat": "-1.300368",
-        "size": "small"
-    },
-    {
         "iata": "MUM",
         "lon": "34.483334",
         "iso": "KE",
