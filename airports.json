@@ -34730,17 +34730,6 @@
         "size": "medium"
     },
     {
-        "iata": "KID",
-        "lon": "14.088889",
-        "iso": "RS",
-        "status": 1,
-        "name": "Airport Drakslerov salas Kikinda",
-        "continent": "EU",
-        "type": "airport",
-        "lat": "55.919445",
-        "size": "small"
-    },
-    {
         "iata": "INI",
         "lon": "21.851667",
         "iso": "RS",
