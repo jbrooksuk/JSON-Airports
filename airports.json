@@ -48810,17 +48810,6 @@
         "size": "small"
     },
     {
-        "iata": "ITB",
-        "lon": "-55.983334",
-        "iso": "BR",
-        "status": 1,
-        "name": "Cachimbo Airport",
-        "continent": "SA",
-        "type": "airport",
-        "lat": "-4.283333",
-        "size": "medium"
-    },
-    {
         "iata": "CNF",
         "lon": "-43.963215",
         "iso": "BR",
