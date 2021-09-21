@@ -45067,11 +45067,13 @@
     },
     {
         "iata": "JRF",
+        "lon": "-158.070278",
         "iso": "US",
         "status": 1,
         "name": "Kalaeloa (John Rodgers Field) Airport",
         "continent": "NA",
         "type": "airport",
+        "lat": "21.307222",
         "size": "medium"
     },
     {
