@@ -9251,6 +9251,17 @@
         "size": "large"
     },
     {
+        "iata": "BER",
+        "lon": "13.5133345",
+        "iso": "DE",
+        "status": 1,
+        "name": "Berlin Brandenburg Airport",
+        "continent": "EU",
+        "type": "airport",
+        "lat": "52.365284",
+        "size": "large"
+    },
+    {
         "iata": "TXL",
         "lon": "13.291722",
         "iso": "DE",
