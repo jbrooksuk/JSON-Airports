@@ -5,8 +5,9 @@ At [Blue Bay Travel](http://bluebaytravel.co.uk) we needed a list of Airports an
 The JSON file, airports.json contains an array of airports and some basic information, incliding:
 
 - Name
-- IATA (was previously named code)
-- ISO code
+- IATA code (was previously named code)
+- ICAO code (if no IATA code is assigned)
+- ISO-3166-2 country code
 - Continent
 - Size (if known)
 - Type (airport, heliport, seaboats)

@@ -1,0 +1,186 @@
+[
+    {
+        "iata": "BER",
+        "name": "Berlin",
+        "iso": "DE",
+        "continent": "EU",
+        "lat": 52.52,
+        "lon": 13.405
+    },
+    {
+        "iata": "BJS",
+        "name": "Beijing",
+        "iso": "CN",
+        "continent": "AS",
+        "lat": 39.907,
+        "lon": 116.3975
+    },
+    {
+        "iata": "BUE",
+        "name": "Buenos Aires",
+        "iso": "AR",
+        "continent": "SA",
+        "lat": -34.603,
+        "lon": -58.381667
+    },
+    {
+        "iata": "BUH",
+        "name": "Bucharest",
+        "iso": "RO",
+        "continent": "EU",
+        "lat": 44.4325,
+        "lon": 26.103889
+    },
+    {
+        "iata": "CHI",
+        "name": "Chicago",
+        "iso": "US",
+        "continent": "NA",
+        "lat": 41.881944,
+        "lon": -87.627778
+    },
+    {
+        "iata": "DTT",
+        "name": "Detroit",
+        "iso": "US",
+        "continent": "NA",
+        "lat": 42.331389,
+        "lon": -83.045833
+    },
+    {
+        "iata": "JKT",
+        "name": "Jakarta",
+        "iso": "ID",
+        "continent": "AS",
+        "lat": -6.175,
+        "lon": 106.8275
+    },
+    {
+        "iata": "LON",
+        "name": "London",
+        "iso": "GB",
+        "continent": "EU",
+        "lat": 51.507222,
+        "lon": -0.1275
+    },
+    {
+        "iata": "MIL",
+        "name": "Milan",
+        "iso": "IT",
+        "continent": "EU",
+        "lat": 45.466944,
+        "lon": 9.19
+    },
+    {
+        "iata": "MOW",
+        "name": "Moscow",
+        "iso": "RU",
+        "continent": "EU",
+        "lat": 55.755833,
+        "lon": 37.617222
+    },
+    {
+        "iata": "NYC",
+        "name": "New York",
+        "iso": "US",
+        "continent": "NA",
+        "lat": 40.712778,
+        "lon": -74.006111
+    },
+    {
+        "iata": "OSA",
+        "name": "Osaka",
+        "iso": "JP",
+        "continent": "AS",
+        "lat": 34.693889,
+        "lon": 135.502222
+    },
+    {
+        "iata": "PAR",
+        "name": "Paris",
+        "iso": "FR",
+        "continent": "EU",
+        "lat": 48.8536,
+        "lon": 2.3481
+    },
+    {
+        "iata": "RIO",
+        "name": "Rio de Janeiro",
+        "iso": "BR",
+        "continent": "SA",
+        "lat": -22.911366,
+        "lon": -43.205916
+    },
+    {
+        "iata": "ROM",
+        "name": "Rome",
+        "iso": "IT",
+        "continent": "EU",
+        "lat": 41.893333,
+        "lon": 12.482778
+    },
+    {
+        "iata": "SOA",
+        "name": "São Paulo",
+        "iso": "BR",
+        "continent": "SA",
+        "lat": -23.55,
+        "lon": -46.633
+    },
+    {
+        "iata": "SEL",
+        "name": "Seoul",
+        "iso": "KR",
+        "continent": "AS",
+        "lat": 37.56,
+        "lon": 126.99
+    },
+    {
+        "iata": "SPK",
+        "name": "Sapporo",
+        "iso": "JP",
+        "continent": "AS",
+        "lat": 43.067,
+        "lon": 141.35
+    },
+    {
+        "iata": "STO",
+        "name": "Stockholm",
+        "iso": "SE",
+        "continent": "EU",
+        "lat": 59.329,
+        "lon": 18.069
+    },
+    {
+        "iata": "TYO",
+        "name": "Tokyo",
+        "iso": "JP",
+        "continent": "AS",
+        "lat": 35.6897,
+        "lon": 139.692
+    },
+    {
+        "iata": "WAS",
+        "name": "Washington",
+        "iso": "US",
+        "continent": "NA",
+        "lat": 38.904722,
+        "lon": -77.016389
+    },
+    {
+        "iata": "YMQ",
+        "name": "Montreal",
+        "iso": "CA",
+        "continent": "NA",
+        "lat": 45.509,
+        "lon": -73.554
+    },
+    {
+        "iata": "YTO",
+        "name": "Toronto",
+        "iso": "CA",
+        "continent": "NA",
+        "lat": 43.742,
+        "lon": -79.373
+    }
+]
