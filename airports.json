@@ -34678,7 +34678,7 @@
         "lon": "17.199799",
         "iso": "SK",
         "status": 1,
-        "name": null,
+        "name": "Bratislava",
         "continent": "EU",
         "type": "airport",
         "lat": "48.170017",
@@ -72816,5 +72816,12 @@
         "type": "airport",
         "lat": "42.885662",
         "size": "medium"
+    },
+    {
+        "iata": "PAO",
+        "name": "Palo Alto",
+        "iso": "US",
+        "continent": "NA",
+        "size": "small"
     }
 ]
